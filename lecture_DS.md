@@ -324,7 +324,6 @@ plt.scatter(pca_d[:, 0], y, c= result_k.labels_)
 
 
 
-![png](output_26_2.png)
 
 
 
@@ -344,7 +343,6 @@ plt.scatter(pca_d[:, 0], y, c= result.labels_,)
 
 
 
-![png](output_27_1.png)
 
 
 
@@ -459,7 +457,3 @@ while 1:
     > 4
     
 
-
-```python
-
-```
